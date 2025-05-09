@@ -1,0 +1,116 @@
+.grand-container {
+    background-color: white;
+    display: grid;
+    grid-template-columns: 210px 300px 300px;
+    grid-template-rows: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+    border: 50px;
+    margin-top: 500px;
+    margin-left: 300px;
+}
+
+
+.create-box {
+    border: 1px solid bisque;
+    height: 350px;
+    border-radius: 10px;
+    background-color: rgb(253, 242, 228);
+    padding: 20px;
+    grid-column: span 1;
+    grid-row: span 2;
+    
+}
+#quicker {
+    color: rgb(141, 48, 229)
+}
+
+.social-box {
+    border: 1px solid blueviolet;
+    height: 200px;
+    width: 480px;
+    border-radius: 10px;
+    color: white;
+    background-color: blueviolet;
+    grid-column: span 1;
+    grid-row: span 1;
+    text-align: center;
+}
+
+.four {
+    margin-top: -20px;
+}
+
+
+#ten {
+    color: yellow;
+}
+
+.schedule-box {
+    border: 1px solid plum;
+    border-radius: 10px;
+    background-color: rgb(234, 214, 253);
+    padding: 10px 0px 10px 20px;
+    width: 170px;
+    margin-left: 180px;
+}
+
+.Manage-box {
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    margin-top: -270px;
+    padding: 0px 10px;
+
+}
+
+.maintain-box {
+    border: 1px solid yellow;
+    border-radius: 10px;
+    padding: 10px 10px 5px 20px;
+    background-color: rgb(251, 187, 27);
+    margin-left: -80px;
+    width: 210px;
+    height: 235px;
+    margin-top: -270px;
+}
+
+.write-box {
+    border: 1px solid yellow;
+    border-radius: 10px;
+    background-color: rgb(251, 199, 43);
+    padding: 0px 20px;
+    grid-column: span 1;
+    margin-top: -580px;
+    height: 350px;
+}
+
+.fifty-six {
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    margin-top: -495px;
+    padding: 15px 0px 0px 20px
+}
+
+.grow {
+    margin-left:180px ;
+    margin-top: -140px;
+    width: 500px;
+    color: white;
+
+}
+
+.grow-box {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 400px;
+    height: 225px;
+    padding: 20px;
+    margin-top: -495px;
+    margin-left: -70px;
+    background-color: blueviolet
+    
+}
